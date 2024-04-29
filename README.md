@@ -2,7 +2,7 @@
 ![epsilon](https://i.imgur.com/o3ev2JK.jpeg)
 <br>
 
-[![Jarvis MD](https://readme-typing-svg.demolab.com?font=Serif&weight=600&size=26&duration=4000&pause=1000&center=true&random=false&width=450&height=90&lines=JARVIS-MD+PLUGINS)](https://ironmanff.vercel.app)
+[![Jarvis MD](https://readme-typing-svg.demolab.com?font=Serif&weight=600&size=26&duration=4000&pause=1000&center=true&random=false&width=450&height=90&lines=NEZUKO-MD+PLUGINS)](https://ironmanff.vercel.app)
 <br>
 <h3 align="center"> 𝗣𝗹𝘂𝗴𝗶𝗻𝘀 𝗳𝗼𝗿 𝗻𝗲𝘇𝘂𝗸𝗼 </h1>
 
