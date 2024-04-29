@@ -101,5 +101,5 @@ https://gist.github.com/godzenitsu/5ca8eb385f04974051adbfdb2faf9e09
 <details close align="left">
 <summary>Contact Us</summary>
 <br>
-➣<a href="Http://wa.me/917907387121">Loki</a>
+➣<a href="Http://wa.me/917907387121">zenitsu</a>
 </details>
